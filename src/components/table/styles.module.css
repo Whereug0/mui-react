@@ -1,0 +1,11 @@
+.search {
+    border: 1px solid grey
+}
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+}
+.user {
+    display: flex;
+
+}

@@ -1,0 +1,18 @@
+.title-AddBtn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.content-box {
+  margin: 0, 30px;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.search-box {
+  width: 100px;
+}
