@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mui-react/static/css/main.7363cd03.css",
+    "main.js": "/mui-react/static/js/main.f23464a6.js",
+    "index.html": "/mui-react/index.html",
+    "main.7363cd03.css.map": "/mui-react/static/css/main.7363cd03.css.map",
+    "main.f23464a6.js.map": "/mui-react/static/js/main.f23464a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7363cd03.css",
+    "static/js/main.f23464a6.js"
+  ]
+}
